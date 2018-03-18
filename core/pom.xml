@@ -8,7 +8,7 @@
     <version>6.1.0.1-295</version>
   </parent>
   <artifactId>cdf-core</artifactId>
-  <version>6.1.0.1-295</version>
+  <version>6.1.0.1-196</version>
   <dependencies>
     <dependency>
       <groupId>pentaho</groupId>

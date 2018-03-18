@@ -374,10 +374,10 @@ public class CdfApi {
   }
 
   protected String buildFullServerUrl( String protocol, String serverName, int serverPort  ) {
-    String p = "http";
-    if ( !StringUtils.isEmpty( protocol ) ) {
-      p = protocol.split( "/" )[ 0 ].toLowerCase();
-    }
+    String p = "https";
+//    if ( !StringUtils.isEmpty( protocol ) ) {
+//      p = protocol.split( "/" )[ 0 ].toLowerCase();
+//    }
     return p + "://" + serverName + ":" + serverPort + PentahoRequestContextHolder.getRequestContext().getContextPath();
   }
 

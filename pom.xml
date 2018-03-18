@@ -10,7 +10,7 @@
   </parent>
   <groupId>pentaho</groupId>
   <artifactId>cdf-plugin</artifactId>
-  <version>6.1.0.1-295</version>
+  <version>6.1.0.1-196</version>
   <packaging>pom</packaging>
   <modules>
     <module>core</module>

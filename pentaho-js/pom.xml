@@ -5,7 +5,7 @@
   <parent>
     <groupId>pentaho</groupId>
     <artifactId>cdf-plugin</artifactId>
-    <version>6.1.0.1-295</version>
+    <version>6.1.0.1-295-Https</version>
   </parent>
   <artifactId>cdf-pentaho-js</artifactId>
   <version>6.1.0.1-295</version>
